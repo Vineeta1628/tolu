@@ -1,0 +1,17 @@
+{
+  "name": "Tolu – Padho, Bolo, Seekho",
+  "short_name": "Tolu",
+  "description": "Phonics, words, grammar, stories and Hindi varnamala with Tolu the bird.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#e8f4fb",
+  "theme_color": "#3fa86b",
+  "lang": "en-IN",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
